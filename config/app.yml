@@ -1,0 +1,7 @@
+#all:
+#  sermepa:
+#    fuc: XXXXcodigoFUC
+#    nombre_comercio: Nombre del comercio
+#    terminal: 1 #euros
+#    psw: Password para crear la firma
+#    psw_test: qwertyasdf0123456789
